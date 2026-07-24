@@ -18,3 +18,7 @@ section > div#formulario{
     float: right;
     width: 60%;
 }
+
+div#formulario > p {
+    font-size: 1em;
+}
